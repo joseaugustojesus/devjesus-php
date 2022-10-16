@@ -1,7 +1,7 @@
 <?php
 
 /** In locahost URL_BASE is ignored */
-define('URL_BASE', "{$_SERVER['HTTP_HOST']}/amsted/manager-products");
+define('URL_BASE', "{$_SERVER['HTTP_HOST']}");
 // define('URL_PATH', "/amsted/supplier-portal");
 define('PER_PAGE', 8);
 
