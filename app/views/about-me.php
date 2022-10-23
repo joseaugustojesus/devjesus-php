@@ -45,7 +45,7 @@
           aplicações.
         </p>
 
-        <a href="./resume.pdf" download class="devjesus-button">DOWNLOAD CURRÍCULO</a>
+        <a href="<?= uploads_path('/cv_joseaugusto.pdf') ?>" download class="devjesus-button">DOWNLOAD CURRÍCULO</a>
       </div>
 
       <div class="skills">
