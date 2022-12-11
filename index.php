@@ -1,5 +1,6 @@
 <?php
 
+/** This project was coded by https://devjesus.com.br */
 use app\core\Router;
 
 require './vendor/autoload.php';
