@@ -10,8 +10,8 @@ class Routes
     {
         return [
             'get' => [
-                '/' => 'HomeController@index',
-                '/about-me' => 'HomeController@aboutMe'
+                '/' => 'HomeController@aboutMe',
+                // '/about-me' => 'HomeController@aboutMe'
             ],
             'post' => [
                
