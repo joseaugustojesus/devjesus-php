@@ -22,7 +22,7 @@
       </h1>
       <ul class="nav">
         <li class="navlink"><a href="<?= route('/') ?>">Início</a></li>
-        <li class="navlink"><a href="<?= route('/about-me') ?>">Sobre mim</a></li>
+        <li class="navlink"><a href="<?= route('about-me') ?>">Sobre mim</a></li>
         <li class="navlink"><a href="#">Blog</a></li>
         <li class="navlink"><a href="#">Projetos</a></li>
         <li class="navlink"><a href="#">Contato</a></li>
